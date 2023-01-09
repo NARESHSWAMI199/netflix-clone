@@ -1,0 +1,40 @@
+.row {
+  /* margin-left: 20px; */
+  margin-right: 0px;
+  color: white;
+}
+
+.row__posters {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+/* hiding the scroll bar but functionality will work */
+.row__posters::-webkit-scrollbar {
+  display: none;
+}
+
+.row_poster {
+  object-fit: contain;
+  width: 100%;
+  max-height: 100px;
+  margin-right: 10px;
+  transition: transform 450ms;
+  /* this is use for delay if change the size of this. simple mean not 
+  pop up  */
+}
+
+.row_poster:hover {
+  transform: scale(1.08);
+  /* this will grow the image or zoom the image */
+}
+
+.row__posterLarge {
+  max-height: 250px;
+}
+
+.row__posterLarge:hover {
+  transform: scale(1.09);
+}
