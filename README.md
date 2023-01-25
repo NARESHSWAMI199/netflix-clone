@@ -18,5 +18,6 @@
 * Go to package.json dowload requried packages with cmd  npm -i <package name>
 
 ``` 
-  npm start # This is a command for run this project
+  npm start 
   ```
+ * This is a command for run this project
