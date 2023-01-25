@@ -5,5 +5,5 @@
 
 
 ## Jumbotron of this clone.
-![Uploading Screenshot 2023-01-25 at 9.36.29 PM.png…]
+<img width="1438" alt="Screenshot 2023-01-25 at 9 36 29 PM" src="https://user-images.githubusercontent.com/51693679/214614905-3d51b0b7-a233-4457-966a-4aea7db0a2fa.png">
 
