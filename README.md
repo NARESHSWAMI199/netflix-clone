@@ -15,9 +15,11 @@
 # How to start this project ?
 
 * First step is download this from here.. 
-* Go to package.json dowload requried packages with cmd  npm -i <package name>
+* Go to package.json dowload requried packages with cmd 
+```npm -i <package name>```
+
+ * This is a command for run this project
 
 ``` 
   npm start 
-  ```
- * This is a command for run this project
+```
