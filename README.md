@@ -10,3 +10,13 @@
 ## Preview
 
 <img width="1440" alt="Screenshot 2023-01-25 at 9 42 27 PM" src="https://user-images.githubusercontent.com/51693679/214616290-2dca1d8d-3174-47e9-9a80-0aaddd08fe16.png">
+
+
+# How to start this project ?
+
+* First step is download this from here.. 
+* Go to package.json dowload requried packages with cmd  npm -i <package name>
+
+``` 
+  npm start # This is a command for run this project
+  ```
